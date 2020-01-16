@@ -1,0 +1,24 @@
+C:\Users\ALTAN EMRE\source\repos\MVCWEBAPI\DAL\bin\Debug\DAL.dll.config
+C:\Users\ALTAN EMRE\source\repos\MVCWEBAPI\DAL\bin\Debug\DAL.dll
+C:\Users\ALTAN EMRE\source\repos\MVCWEBAPI\DAL\bin\Debug\DAL.pdb
+C:\Users\ALTAN EMRE\source\repos\MVCWEBAPI\DAL\bin\Debug\EntityFramework.dll
+C:\Users\ALTAN EMRE\source\repos\MVCWEBAPI\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ALTAN EMRE\source\repos\MVCWEBAPI\DAL\bin\Debug\EntityFramework.xml
+C:\Users\ALTAN EMRE\source\repos\MVCWEBAPI\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ALTAN EMRE\source\repos\MVCWEBAPI\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\ALTAN EMRE\source\repos\MVCWEBAPI\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ALTAN EMRE\source\repos\MVCWEBAPI\DAL\obj\Debug\DAL.dll
+C:\Users\ALTAN EMRE\source\repos\MVCWEBAPI\DAL\obj\Debug\DAL.pdb
+C:\Users\Numan\Desktop\Web\03.01.2020\MVCWEBAPI\DAL\bin\Debug\DAL.dll.config
+C:\Users\Numan\Desktop\Web\03.01.2020\MVCWEBAPI\DAL\bin\Debug\DAL.dll
+C:\Users\Numan\Desktop\Web\03.01.2020\MVCWEBAPI\DAL\bin\Debug\DAL.pdb
+C:\Users\Numan\Desktop\Web\03.01.2020\MVCWEBAPI\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Numan\Desktop\Web\03.01.2020\MVCWEBAPI\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Numan\Desktop\Web\03.01.2020\MVCWEBAPI\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Numan\Desktop\Web\03.01.2020\MVCWEBAPI\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Numan\Desktop\Web\03.01.2020\MVCWEBAPI\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Numan\Desktop\Web\03.01.2020\MVCWEBAPI\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Numan\Desktop\Web\03.01.2020\MVCWEBAPI\DAL\obj\Debug\DAL.dll
+C:\Users\Numan\Desktop\Web\03.01.2020\MVCWEBAPI\DAL\obj\Debug\DAL.pdb
+C:\Users\Numan\Desktop\Web\03.01.2020\MVCWEBAPI\DAL\obj\Debug\DAL.Migrations.InitialCreate.resources
+C:\Users\Numan\Desktop\Web\03.01.2020\MVCWEBAPI\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
